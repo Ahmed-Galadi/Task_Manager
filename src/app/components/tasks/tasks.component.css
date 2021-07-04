@@ -1,0 +1,11 @@
+.tasks-background {
+  background-color: rgb(223, 223, 223);
+  padding-bottom: 50px;
+  border-radius: 10px;
+}
+
+.rounding {
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+}
